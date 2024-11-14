@@ -5,8 +5,8 @@ const app = express();
 app.use(express.json());
 
 // Archivos de rutas
-const tareaRoutes = require('./tarea/tarea.routes');
-const usuarioRoutes = require('./usuario/usuario.routes');
+const tareaRoutes = require('./modulos/tarea/tarea.routes');
+const usuarioRoutes = require('./modulos/usuario/usuario.routes');
 
 
 app.use('/api', tareaRoutes);
