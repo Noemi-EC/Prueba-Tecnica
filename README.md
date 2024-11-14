@@ -34,13 +34,19 @@ El proyecto debe estar organizado de forma modular para separar claramente las r
 
 ## Capturas de Pantalla del proyecto
 - Método POST
-   <center><img src="./screenshots/post_tareas.png" width="550" alt="Método POST" /></center>
+   <center><img src="./screenshots/post_tareas.png" width="500" alt="Método POST" /></center>
+   
 - Método GET
-   - Listar toda la tabla
-   <center><img src="./screenshots/get_tareas.png" width="550" alt="Método GET" /></center>
+   - Listar tabla
+     
+   <center><img src="./screenshots/get_tareas.png" width="500" alt="Método GET" /></center>
+   
    - Listar un registro
-   <center><img src="./screenshots/get_tarea_esp.png" width="550" alt="Método GET" /></center>
+
+   <center><img src="./screenshots/get_tarea_esp.png" width="500" alt="Método GET" /></center>
+   
 - Método PUT
-   <center><img src="./screenshots/put_tarea.png" width="550" alt="Método PUT" /></center>
+   <center><img src="./screenshots/put_tarea.png" width="500" alt="Método PUT" /></center>
+   
 - Método Delete
-   <center><img src="./screenshots/delete_tarea.png" width="550" alt="Método DELETE" /></center>
+   <center><img src="./screenshots/delete_tarea.png" width="500" alt="Método DELETE" /></center>
