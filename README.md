@@ -6,10 +6,10 @@ Desarrollar una **API RESTful** en **Express** para gestionar información de **
 
 ## Requisitos
 
-- **Lenguaje**: Node.js (Express)
+- **Entorno**: Node.js (Express)
 - **Base de Datos**: MySQL
 - **Estructura Modular**: Organizar el proyecto de forma modular para cada entidad (Usuarios y Tareas).
-- **Conexión a MySQL**: Realizar consultas SQL directamente sin un ORM (Object-Relational Mapping).
+- **Conexión a MySQL**: Realizar consultas SQL directamente sin un ORM.
 - **Manejo de Errores y Respuestas**: Implementar un adecuado manejo de errores y respuestas en la API.
 
 ## Funcionalidades
