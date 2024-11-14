@@ -32,3 +32,15 @@ Desarrollar una **API RESTful** en **Express** para gestionar información de **
 
 El proyecto debe estar organizado de forma modular para separar claramente las rutas, controladores y modelos correspondientes a cada entidad (Usuarios y Tareas). Una posible estructura del proyecto podría ser la siguiente:
 
+## Capturas de Pantalla del proyecto
+- Método POST
+   <center><img src="./screenshots/post_tareas.png" width="550" alt="Método POST" /></center>
+- Método GET
+   - Listar toda la tabla
+   <center><img src="./screenshots/get_tareas.png" width="550" alt="Método GET" /></center>
+   - Listar un registro
+   <center><img src="./screenshots/get_tarea_esp.png" width="550" alt="Método GET" /></center>
+- Método PUT
+   <center><img src="./screenshots/put_tarea.png" width="550" alt="Método PUT" /></center>
+- Método Delete
+   <center><img src="./screenshots/delete_tarea.png" width="550" alt="Método DELETE" /></center>
