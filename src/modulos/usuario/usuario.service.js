@@ -1,4 +1,4 @@
-const db = require('../../config/database');
+const db = require('../../config/database').default;
 
 const usuarioService = {
   // Obtener todos los usuarios
